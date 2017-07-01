@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=nbnintegral
+Comment=nbnintegral P2P Cryptocurrency
+Comment[fr]=nbnintegral, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=nbnintegral, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/nbnintegral-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/nbnintegral.xpm
+MimeType=x-scheme-handler/nbnintegral;
+Categories=Office;

@@ -1,0 +1,2 @@
+debian/bin/nbnintegrald usr/bin
+src/nbnintegrald usr/lib/nbnintegral

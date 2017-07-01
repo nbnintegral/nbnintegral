@@ -1,0 +1,5 @@
+nbnintegral-qt usr/bin
+share/pixmaps/nbnintegral32.xpm usr/share/pixmaps
+share/pixmaps/nbnintegral80.xpm usr/share/pixmaps
+debian/nbnintegral-qt.desktop usr/share/applications
+debian/nbnintegral-qt.protocol usr/share/kde4/services/
